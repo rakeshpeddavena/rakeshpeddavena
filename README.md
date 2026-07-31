@@ -5,7 +5,7 @@
 
 I am an Electrical and Electronics Engineering graduate with professional training in Embedded Systems from Vector India. I have a strong interest in embedded software development and enjoy building hardware-software integrated applications.
 
-### 👨‍💻 Currently Learning
+### 👨‍💻 Currently learning
 - Embedded C
 - Linux System Programming
 - Device Drivers
