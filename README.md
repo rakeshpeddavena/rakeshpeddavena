@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Rakesh Yadav 👋
 
-## Embedded Software Engineer | EEE Graduate
+## Embedded Software Engineer 
 
 I am an Electrical and Electronics Engineering graduate with professional training in Embedded Systems from Vector India. I have a strong interest in embedded software development and enjoy building hardware-software integrated applications.
 
